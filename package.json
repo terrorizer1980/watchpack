@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "glob-to-regexp": "^0.4.1",
-    "graceful-fs": "^4.1.2"
+    "graceful-fs": "^4.2.8"
   },
   "engines": {
     "node": ">=10.13.0"
